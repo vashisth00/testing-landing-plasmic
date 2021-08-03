@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 688 677">
+  <circle cx="338.03" cy="337.599" r="90.472" transform="rotate(-15 338.03 337.599)" stroke="#3E64FF" stroke-opacity=".15" stroke-width="2"/>
+  <circle cx="338.522" cy="338.206" r="194.569" transform="rotate(-15 338.522 338.206)" stroke="url(#AnuvCn29bD0a)" stroke-opacity=".2" stroke-width="2"/>
+  <circle cx="338.148" cy="338.148" r="275.097" transform="rotate(-15 338.148 338.148)" stroke="url(#AnuvCn29bD0b)" stroke-opacity=".2" stroke-width="2"/>
+  <circle cx="684" cy="466.919" r="4" fill="#F26767"/>
+  <circle cx="184" cy="525.919" r="4" fill="#29BB89"/>
+  <circle cx="445" cy="423.919" r="7" fill="#3E64FF"/>
+  <circle cx="192" cy="161.919" r="8" fill="#FF6701"/>
+  <circle cx="358" cy="667.918" r="6" fill="#A259FF"/>
+  <defs>
+    <linearGradient id="AnuvCn29bD0a" x1="470.09" y1="505.792" x2="367.321" y2="133.638" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3E64FF"/>
+      <stop offset="1" stop-color="#3E64FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="AnuvCn29bD0b" x1="523.89" y1="574.739" x2="378.805" y2="49.347" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3E64FF"/>
+      <stop offset="1" stop-color="#3E64FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>

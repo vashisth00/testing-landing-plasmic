@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 84 145">
+  <path d="M5.873 49.435c2.56-5.703-12.319-28.658-2.453-41.25C15.079 1.165 23.799 2.99 35.689.393 52.297-2.385 90.48 9.819 81.706 29.4c-15.759 35.166 6.82 70.288 1.12 93.783-7.172 15.013-21.784 20.904-27.732 20.878-3.928.617-7.58.912-10.965.913-47.211.003-43.26-57.274-38.256-95.54" fill="url(#HR_eHFe-pTta)"/>
+  <defs>
+    <linearGradient id="HR_eHFe-pTta" x1="83.875" y1=".749" x2="12.461" y2="128.199" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1369B1"/>
+      <stop offset=".002" stop-color="#1369B1"/>
+      <stop offset=".56" stop-color="#3091D8"/>
+      <stop offset=".565" stop-color="#3091D8"/>
+      <stop offset="1" stop-color="#3EA5EC"/>
+    </linearGradient>
+  </defs>
+</svg>
